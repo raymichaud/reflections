@@ -40,5 +40,10 @@ the diagram the way we do?
     easy to determine the parent of each commit. Once merged, parent commits are not
     obvious.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+    Git's automatic merging is convenient and fast and is good for merging commits that
+    do not have any conflicts. Manual commits are more time consuming, but it is the very
+    best way to handle commit conflicts where you need to research the conflict to decide
+    which commit will solve the original problem without introducing new problems.
