@@ -12,7 +12,11 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    You fork a repository from another GitHub user's repo to your own GitHub repo.
+    You can clone a repo from any GitHub account to your local PC or from and to
+    your own PC.
+    You create a branch in a specific repo fix a bug or work on a feature to keep
+    the master branch at production quality.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
