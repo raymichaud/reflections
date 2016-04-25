@@ -27,9 +27,13 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Using a cloud based service like Google docs. It would be easier since we
+    wouldn't need to learn command line but tracking changes and resolving conflicts
+    would not be as easy.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Making changes in a seperate branch allows you to keep the master branch at
+    production quality so that changes can be tested before being merged into the
+    master branch.
